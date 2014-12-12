@@ -76,6 +76,7 @@
 [merge]
   summary = true
   verbosity = 1
+	tool = opendiff
 [apply]
   whitespace = nowarn
 [branch]
@@ -99,9 +100,6 @@
   enabled = true
 [include]
   path = ~/.gituser 
-[difftool "sourcetree"]
-  cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-  path =
-[mergetool "sourcetree"]
-  cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-  trustExitCode = true
+[user]
+	name = Martin Vivies
+	email = martin.vivies@turner.com

@@ -28,6 +28,6 @@ alias hidedesktop="defaults write com.apple.finder CreateDesktop -bool false && 
 alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && killall Finder"
 
 # shortcuts
-alias cdcnn="cd ~/Projects/CNN"
-alias cdntr="cd ~/Projects/CNN/newstron_client"
-alias cdchef="cd ~/chef"
+alias cdcnn="cd ~/Documents/Workspace"
+alias cdntr="cd ~/Documents/Workspace/bps-git/newstron-client"
+alias cdchef="cd ~/Documents/Workspace/chef"

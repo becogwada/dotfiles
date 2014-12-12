@@ -18,3 +18,7 @@ Thumbs.db
 
 #git user file
 .gituser
+
+#Sublime files
+*.iml
+.idea/

@@ -37,3 +37,6 @@ export COPYFILE_DISABLE=true
 #export CC=/usr/local/bin/gcc-4.9
 #export CPP=/usr/local/bin/cpp-4.9
 #export CXX=/usr/local/bin/g++-4.9
+
+# Add intelliJ to the path
+export PATH=$PATH:/Applications/IntelliJ\ IDEA\ 14.app/Contents/MacOS/

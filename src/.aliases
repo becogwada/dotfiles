@@ -31,3 +31,4 @@ alias showdesktop="defaults write com.apple.finder CreateDesktop -bool true && k
 alias cdcnn="cd ~/Documents/Workspace"
 alias cdntr="cd ~/Documents/Workspace/bps-git/newstron-client/newstron"
 alias cdchef="cd ~/Documents/Workspace/chef"
+alias cdproj="cd ~Documents/Programmation/Projects"
